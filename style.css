@@ -1,0 +1,16 @@
+body {
+  background: #f4f7fb;
+  color: #263445;
+  font-family: system-ui, sans-serif;
+  line-height: 1.8;
+  margin: 0;
+}
+main {
+  max-width: 760px;
+  margin: 80px auto;
+  padding: 36px;
+  background: white;
+  border-radius: 14px;
+  box-shadow: 0 12px 35px #00000010;
+}
+a { color: #0969da; }
